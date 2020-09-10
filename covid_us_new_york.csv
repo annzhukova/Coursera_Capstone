@@ -1,3 +1,4 @@
+fips,county,state,lat,long,date,cases,state_code,deaths
 36061,New York,New York,40.76727260000001,-73.97152637,2020-01-22,0,NY,0
 36061,New York,New York,40.76727260000001,-73.97152637,2020-01-23,0,NY,0
 36061,New York,New York,40.76727260000001,-73.97152637,2020-01-24,0,NY,0
